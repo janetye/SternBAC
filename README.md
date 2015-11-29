@@ -9,6 +9,7 @@ www.facebook.com/sternBAC
 - Excel Solver
 - SQL
 - R
+
 ### Fall 2015
   - 9.5 Trading & R
   - 9.12 Data Mining, Application in Consulting
