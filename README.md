@@ -24,3 +24,4 @@ www.facebook.com/sternBAC
 
 ### Other Resources
 - 2015 Fall Registration
+- abacus.py attendance tracking python script (supports OrgSync attendance)
