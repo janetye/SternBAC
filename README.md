@@ -20,7 +20,7 @@ www.facebook.com/sternBAC
   - 10.24 Excel VBA Jeopardy
   - 11.7 Advanced Excel
   - 11.14 Text Mining and Sentiment Analysis
-  - 12.5 TBA
+  - 12.5 Sexy Graph
 
 ### Other Resources
 - 2015 Fall Registration
